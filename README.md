@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Machine Learning and Artificial Intelligence**
 
-- 📫 How to reach me **azizchpay99@outlook.com**
+- 📫 How to reach me **aziz.chikh@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
