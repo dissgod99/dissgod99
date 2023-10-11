@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dissgod99&label=Profile%20views&color=0e75b6&style=flat" alt="dissgod99" /> </p>
 
-- 🔭 I’m currently working on **a SaaS project for AI Prompt Exchange**
+- 🔭 I’m currently working on **a Machine Learning SaaS project**
 
-- 🌱 I’m currently learning **the latest Machine Learning and Next.js stuff**
+- 🌱 I’m currently learning **Next.js, FastAPI and the latest Machine Learning stuff**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
