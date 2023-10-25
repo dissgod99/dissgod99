@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dissgod99&label=Profile%20views&color=0e75b6&style=flat" alt="dissgod99" /> </p>
 
-- 🔭 I’m currently working on **a Machine Learning SaaS project**
+- 🔭 I’m currently working on **a Machine Learning Meme Analyzer Project**
 
 - 🌱 I’m currently learning **Next.js, FastAPI and the latest Machine Learning stuff**
 
