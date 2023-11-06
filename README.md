@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Machine Learning Meme Analyzer Project**
 
-- 🌱 I’m currently learning **Next.js, FastAPI and the latest Machine Learning stuff**
+- 🌱 I’m currently learning **Next.js, FastAPI and In-Context Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
