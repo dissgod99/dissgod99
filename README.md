@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dissgod99&label=Profile%20views&color=0e75b6&style=flat" alt="dissgod99" /> </p>
 
-- 🔭 I’m currently working on **a Machine Learning Meme Analyzer Project**
+- 🔭 I’m currently working on **my Master's Thesis at the TU Darmstadt**
 
-- 🌱 I’m currently learning **Next.js, FastAPI and In-Context Learning**
+- 🌱 I’m currently learning **Dash Plotly and LLM Pre-training**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
